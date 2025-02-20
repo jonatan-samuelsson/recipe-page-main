@@ -211,14 +211,15 @@ img {
         margin: 0;
     }
     .recipie {
-        width: clamp(600px, 52%, 1000px);
+        width: min(75%, 728px);
         padding: 2.5rem;
-        margin: 6rem auto;
+        margin: 8rem auto;
 
         border-radius: 25px;
 
         .intro h1 {
             font-size: 2.4rem;
+            margin-block: .75em;
         }
 
         .nutrition {
