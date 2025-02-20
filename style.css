@@ -209,6 +209,7 @@ img {
     .container {
         width: 100%;
         margin: 0;
+
         
     }
     .recipie {
@@ -228,7 +229,7 @@ img {
 
         .intro {
 
-            
+            padding-block-end: 0;
 
             h1 {
             font-size: 2.4rem;
