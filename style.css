@@ -209,12 +209,14 @@ img {
     .container {
         width: 100%;
         margin: 0;
+        padding-block: 1rem;
 
         
     }
     .recipie {
         width: min(75%, 728px);
-        padding: 2.5rem;
+        padding-inline: 2.5rem;
+        padding-block: 2.5rem 1rem;
         margin: 8rem auto;
 
         border-radius: 25px;
