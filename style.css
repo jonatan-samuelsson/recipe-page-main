@@ -218,6 +218,10 @@ img {
 
         border-radius: 25px;
 
+        li {
+            margin: .5rem 0;
+        }
+
         figure img {
             border-radius: 15px;
         }
@@ -228,7 +232,7 @@ img {
 
             h1 {
             font-size: 2.4rem;
-            margin-block: .75em;
+            margin-block: .5em;
             }
         }
 
